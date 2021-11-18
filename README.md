@@ -11,3 +11,6 @@ IF2110 - Algoritma dan Struktur Data 2020
 - Praktikum 7 (69.23/100)
 - Praktikum 8 (100/100)
 - Praktikum 9 (90.10/100)
+- Praktikum 10 (100/100)
+- Praktikum 11 (100/100)
+- Praktikum 12 (100/100)
